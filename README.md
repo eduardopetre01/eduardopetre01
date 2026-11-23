@@ -7,7 +7,7 @@ I build software tools that turn engineering data into decisions. I have 5 years
 - 🔧 **Currently:** Test & Validation Engineer at Aptiv, automating lab data workflows with Python
 - 🎓 **Education:** MS in AI & Data Analytics (2026) · BS in Mechanical Engineering, Universidad Autónoma de Ciudad Juárez
 - 🌎 **Languages:** English and Spanish (fully bilingual)
-- 📫 **Contact:** [eduardopetre01@gmail.com](mailto:eduardopetre01@gmail.com) · [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-URL)
+- 📫 **Contact:** [eduardopetre01@gmail.com](mailto:eduardopetre01@gmail.com) · [LinkedIn](www.linkedin.com/in/eduardo-peña-446819216)
 
 ## Featured projects
 
